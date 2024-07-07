@@ -1,24 +1,60 @@
-# Spotify Clone
+# Spotify_Web_Player
 
-https://spotify-delta.netlify.app/
-
-## Introduction
-This project is a simple web-based clone of Spotify. It mimics some of the core functionalities of Spotify, including a music player, playlist management, and user interface design. This project is intended for educational purposes to help developers understand the basics of web development using HTML, CSS, and JavaScript.
+This is a Spotify clone developed using HTML, CSS, and a bit of JavaScript. The project is designed with responsive web design principles to ensure it looks great on various devices. This is my very first project in web development.
 
 ## Features
-Responsive UI similar to Spotify
 
-Basic music player with play, pause, and skip functionalities
-
-Playlist management
-
-Volume control
-
-Progress bar for the current track
+- Responsive web design
+- Navigation bar
+- Music player interface
+- Playlist display
 
 ## Technologies Used
-HTML: For the basic structure of the web pages
 
-CSS: For styling the web pages
+- HTML
+- CSS
+- JavaScript
 
-JavaScript: For implementing the interactive features and functionalities
+## Screenshots
+
+![1](https://github.com/affancoder/Spotify_Web_Player/assets/113276865/87e6614d-fb2f-4f5d-8a09-6224464fc509)
+
+![2](https://github.com/affancoder/Spotify_Web_Player/assets/113276865/018dd8ea-c264-42fc-8c60-dd73738d6f8d)
+
+![3](https://github.com/affancoder/Spotify_Web_Player/assets/113276865/1eb902ba-cf0d-48e0-923d-99d81f0f204a)
+
+## Setup
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/affancoder/spotify-clone.git
+   
+
+2. Navigate to the project directory:
+   bash
+   cd spotify-web-player
+   
+
+3. Open index.html in your preferred web browser.
+
+## Usage
+
+- Open the project in your browser to see the Spotify clone in action.
+- Navigate through the different sections and interact with the music player.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Deployement
+
+Live : https://spotify-delta.netlify.app/
+
+## License
+
+This project is licensed under my project License.
+
+## Contact
+
+- *Name:* MD Affan Asghar
+- *Email:* affanasgar8@gmail.com
