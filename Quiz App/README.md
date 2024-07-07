@@ -1,5 +1,7 @@
 # Quiz App with Timer
 
+https://quiz-app-kappa-hazel.vercel.app/
+
 Welcome to the GitHub repository for our Quiz App with Timer project! This repository showcases our web development skills using HTML, CSS, and JavaScript to create an engaging quiz application. The app presents a series of questions to the user and includes a countdown timer for each question. Users can select their answers, and the app provides instant feedback. Our responsive design ensures compatibility across various devices. The JavaScript logic handles question navigation, timer functionality, and score calculation. Dive into the code to explore how we've structured the app, managed the timer, and implemented user interactions. This project demonstrates our ability to create interactive and educational web applications. Have fun exploring the code and testing your knowledge!
 
 # Images
