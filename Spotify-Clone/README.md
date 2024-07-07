@@ -1,5 +1,7 @@
 # Spotify Clone
 
+https://spotify-delta.netlify.app/
+
 ## Introduction
 This project is a simple web-based clone of Spotify. It mimics some of the core functionalities of Spotify, including a music player, playlist management, and user interface design. This project is intended for educational purposes to help developers understand the basics of web development using HTML, CSS, and JavaScript.
 
