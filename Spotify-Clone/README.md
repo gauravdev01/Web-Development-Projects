@@ -1,5 +1,7 @@
 # Spotify_Web_Player
 
+https://spotify-delta.netlify.app/
+
 This is a Spotify clone developed using HTML, CSS, and a bit of JavaScript. The project is designed with responsive web design principles to ensure it looks great on various devices. This is my very first project in web development.
 
 ## Features
