@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyOnlineMeal.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Alkatra&family=Bree+Serif&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <img src="restaurant-logo.jpg" alt="MyOnlineMeal">
+        </div>
+        <ul>
+            <li class="item"><a href="#">Home</a></li>
+            <li class="item"><a href="#">Services</a></li>
+            <li class="item"><a href="#">Contact Us</a></li>
+            <li class="item"><a href="#">About Us</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <div class="bg-img"></div>
+        <div class="home-content">
+            <h1 class="h-primary">Welcome to MyOnlineMeal</h1>
+            <p>Your ultimate destination for delicious meals delivered right to your door. Discover a world of flavors
+                and convenience with our wide selection of dishes.</p>
+            <p>From gourmet cuisines to hearty comfort foods, we cater to every palate and occasion. Order now and
+                indulge in culinary excellence at your fingertips!</p>
+            <button class="btn">Order Now</button>
+        </div>
+    </section>
+    <section class="services-container">
+        <h1 class="h-primary center">Our Services</h1>
+        <div id="services">
+            <div class="box">
+                <img src="Dine-in.jpg" alt="">
+                <h2 class="h-secondary center">Dine-In</h2>
+                <p class="center">Experience fine dining like never before. Whether it's a romantic dinner for two or a
+                    family celebration, our exquisite menu and elegant ambiance will leave you satisfied.</p>
+            </div>
+            <div class="box">
+                <img src="cuisine-exploration.jpg" alt="">
+                <h2 class="h-secondary center">Cuisine Exploration</h2>
+                <p class="center">Embark on a culinary journey with our diverse range of cuisines from around the world.
+                    Explore flavors, ingredients, and cooking techniques that will tantalize your taste buds.</p>
+            </div>
+            <div class="box">
+                <img src="food-delivery.jpg" alt="">
+                <h2 class="h-secondary center">Food Ordering</h2>
+                <p class="center">Enjoy the convenience of home delivery. Whether you're craving comfort food or trying
+                    something new, we deliver delicious meals right to your doorstep.</p>
+            </div>
+        </div>
+    </section>
+    <section id="contact">
+        <h1 class="h-primary center contact-heading">Contact Us</h1>
+        <div id="contact-box">
+            <form id="contact-form">
+                <div class="form-group">
+                    <label for="name" class="form-label">Name: </label>
+                    <input type="text" id="name" placeholder="Enter Your Name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email" class="form-label">Email: </label>
+                    <input type="email" id="email" placeholder="Enter Your Email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message" class="form-label">Message: </label>
+                    <textarea id="message" placeholder="Enter Your Message" rows="5" required></textarea>
+                </div>
+                <button type="submit" class="btn-submit">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
